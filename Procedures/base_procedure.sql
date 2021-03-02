@@ -1,3 +1,7 @@
+--
+-- TEMPLATE BASE DE UMA PROCEDURE DO TIPO TRIGGER
+--
+
 create function nome_da_funcao() returns trigger
   language plpgsql
 as
