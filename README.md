@@ -2,7 +2,7 @@
 
 #### Básicos de SQL
 
-a) [Criando Database,Tabela e Inserindo dados]()
+a) [Criando Database,Tabela e Inserindo dados](https://github.com/F4NT0/PostgreSQL_Coding/blob/main/Basics/createDatabase_table_insert.sql)
 
 #### Criando Funções
 
@@ -18,8 +18,8 @@ e) [Utilizando os Cifrões na Função](https://github.com/F4NT0/PostgreSQL_Codi
 
 #### Criando uma Trigger
 
-a) [Criando uma Trigger]()
+a) [Criando uma Trigger](https://github.com/F4NT0/PostgreSQL_Coding/blob/main/Triggers/criando_trigger.sql)
 
 #### Criando um Procedure
 
-a) [Procedure Básico]()
+a) [Procedure Básico](https://github.com/F4NT0/PostgreSQL_Coding/blob/main/Procedures/base_procedure.sql)
