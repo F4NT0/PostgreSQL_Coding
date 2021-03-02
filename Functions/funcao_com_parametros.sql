@@ -15,3 +15,7 @@ LANGUAGE SQL;
 
 --Chamando a Função
 SELECT multiplica_dois_numeros(2,3);
+
+-- Para deletar as Funções utilize o DROP
+DROP FUNCTION soma_dois_numeros;
+DROP FUNCTION multiplica_dois_numeros;
